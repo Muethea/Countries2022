@@ -7,3 +7,28 @@
         #spanColor {
             color: #06297D;
         }
+        
+        .contU {
+            display: flex;
+            text-align: center;
+            width: 920px;
+            margin: 0 auto;
+        }
+        
+        .contU p {
+            width: 410px;
+        }
+        
+        .contU button {
+            background: #06297D;
+            color: white;
+            width: 250px;
+            border-radius: 12px;
+            height: 50px;
+        }
+        
+        .contU img {
+            width: 500px;
+            height: 400px;
+            margin-top: 20px;
+        }
