@@ -1,46 +1,57 @@
-        #af {
-            font-weight: 700, bold;
-            font-size: 21px;
-            color: #06297D;
-        }
-        
-        #spanColor {
-            color: #06297D;
-        }
-        
-        .contU {
-            display: flex;
-            text-align: center;
-            width: 920px;
-            margin: 0 auto;
-        }
-        
-        .contU p {
-            width: 410px;
-        }
-        
-        .contU button {
-            background: #06297D;
-            color: white;
-            width: 250px;
-            border-radius: 12px;
-            height: 50px;
-        }
-        
-        .contU img {
-            width: 500px;
-            height: 400px;
-            margin-top: 20px;
-        }
-        
-        .contU img {
-            width: 500px;
-            height: 400px;
-            margin-top: 20px;
-        }
-        
-        #alba {
-            width: 500.06px;
-            height: 648px;
-            margin-top: 20px;
-        }
+       #af {
+           font-weight: 700, bold;
+           font-size: 21px;
+           color: #06297D;
+       }
+       
+       #spanColor {
+           color: #06297D;
+       }
+       /*Conteudo principal*/
+       
+       .contU {
+           display: flex;
+           text-align: center;
+           width: 920px;
+           margin: 0 auto;
+       }
+       
+       .contU p {
+           width: 410px;
+       }
+       
+       .contU button {
+           background: #06297D;
+           color: white;
+           width: 250px;
+           border-radius: 12px;
+           height: 50px;
+       }
+       
+       #ImgAfg {
+           width: 601.32px;
+           height: 458.08px;
+           margin-top: 20px;
+       }
+       
+       #alba {
+           width: 291.06px;
+           height: 648px;
+           margin-top: 20px;
+       }
+       /* Informacoes de Albania*/
+       
+       .infoA {
+           margin-left: 205px;
+       }
+       /*Tamanho da Bandeira Albania */
+       
+       #BanAlbania {
+           width: 410.3px;
+           height: 264px;
+       }
+       
+       #BanAfeg {
+           width: 410.3px;
+           height: 264px;
+       }

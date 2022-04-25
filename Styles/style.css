@@ -7,6 +7,9 @@ body {
     padding: 0;
 }
 
+
+/*Header */
+
 .header {
     text-align: center;
     width: 920px;
@@ -42,6 +45,9 @@ span {
     justify-content: space-between;
 }
 
+
+/*Input de pesquisa */
+
 input {
     align-self: center;
     border-radius: 12px;
@@ -63,6 +69,9 @@ input {
     margin: 0 auto;
     justify-content: space-between;
 }
+
+
+/* Estilizacao de todos nomes dos paises*/
 
 #contr_A,
 #contr_B,
@@ -95,6 +104,9 @@ input {
     display: flex;
 }
 
+
+/*Estilizacao de todos paragrafos da pagina */
+
 p {
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -102,6 +114,17 @@ p {
     width: 150px;
     margin: 22px;
 }
+
+.body p:hover {
+    border: none;
+    width: auto;
+    height: auto;
+    background: #06297D;
+    color: white;
+}
+
+
+/*Estilizacao do titulo */
 
 h1 {
     font-style: normal;
@@ -111,14 +134,9 @@ h1 {
     color: #06297D;
 }
 
+
+/*Links da pagina */
+
 a:link {
     text-decoration: none;
-}
-
-.body p:hover {
-    border: none;
-    width: auto;
-    height: auto;
-    background: #06297D;
-    color: white;
 }
